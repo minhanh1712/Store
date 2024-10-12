@@ -10,3 +10,5 @@ SoundCloudGo+=type=http-response,pattern=https://api-mobile.soundcloud.com/confi
 [MITM]
 
 hostname= %APPEND% api-mobile.soundcloud.com
+
+Le Hong Anh
